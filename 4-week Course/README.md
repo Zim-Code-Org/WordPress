@@ -1,1 +1,1 @@
-The 4-week version of the WordPress course
+4-week version of the WordPress Course
